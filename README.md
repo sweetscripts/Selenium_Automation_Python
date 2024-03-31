@@ -1,7 +1,7 @@
 # Selenium Automation Python
 
 ## Overview
-This repository is part of a school project aimed at teaching students web automation using Selenium with Python. 
+This repository is part of a school project. 
 It covers the basics of Selenium WebDriver, how to interact with web elements, implement tests using pytest, and follows best practices in test automation.
 
 ## Objectives
